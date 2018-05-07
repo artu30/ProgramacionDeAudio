@@ -1,0 +1,20 @@
+﻿  World.cpp
+  vec2.cpp
+  textureManager.cpp
+  Text.cpp
+  Sprite.cpp
+  main.cpp
+c:\users\artu\desktop\master\programación de audio\practica 1 - reproducción de buffers\practica 1\programacion2d\lib\litegfx.h(322): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\artu\desktop\master\programación de audio\practica 1 - reproducción de buffers\practica 1\programacion2d\lib\litegfx.h(372): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+c:\users\artu\desktop\master\programación de audio\practica 1 - reproducción de buffers\practica 1\programacion2d\src\main.cpp(72): warning C4930: 'Vec3D listenerPosition(void)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+  Listener.cpp
+  Font.cpp
+c:\users\artu\desktop\master\programación de audio\practica 1 - reproducción de buffers\practica 1\programacion2d\src\font.cpp(75): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'long'; posible pérdida de datos
+  ColliderFunctions.cpp
+  Collider.cpp
+  AudioSource.cpp
+  AudioBuffer.cpp
+  Generando código...
+c:\users\artu\desktop\master\programación de audio\practica 1 - reproducción de buffers\practica 1\programacion2d\src\world.cpp(44): warning C4172: devolución de dirección de la variable local o temporal
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  programacion2d.vcxproj -> C:\Users\artu\Desktop\MASTER\Programación de audio\Practica 1 - Reproducción de buffers\Practica 1\programacion2d\project\Debug\programacion2d.exe

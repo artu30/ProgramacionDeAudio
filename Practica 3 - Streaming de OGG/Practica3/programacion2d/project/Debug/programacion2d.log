@@ -1,0 +1,29 @@
+﻿  World.cpp
+  vec2.cpp
+  Utilities.cpp
+  textureManager.cpp
+  Text.cpp
+  Sprite.cpp
+  main.cpp
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\litegfx.h(322): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\litegfx.h(372): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+  Listener.cpp
+  Font.cpp
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\src\font.cpp(75): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'long'; posible pérdida de datos
+  ColliderFunctions.cpp
+  Collider.cpp
+  AudioStream.cpp
+  AudioSource.cpp
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(3): error C2061: error de sintaxis: identificador 'AudioSource'
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(18): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(18): error C2238: símbolos (token) inesperados delante de ';'
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(19): error C2143: error de sintaxis: falta ';' delante de '*'
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(19): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(19): error C2238: símbolos (token) inesperados delante de ';'
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(20): error C3646: 'mInfo': especificador de invalidación desconocido
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\lib\audiostream.h(21): error C2079: 'AudioStream::mBuffers' utiliza class 'std::array<uint32_t,2>' sin definir
+  AudioBuffer.cpp
+  Generando código...
+c:\users\artu\desktop\master\programación de audio\practica 3 - streaming de ogg\practica3\programacion2d\src\world.cpp(44): warning C4172: devolución de dirección de la variable local o temporal

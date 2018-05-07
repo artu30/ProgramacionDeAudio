@@ -1,0 +1,1 @@
+std::string extractExt(const std::string& filename);
